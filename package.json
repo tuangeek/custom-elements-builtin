@@ -27,7 +27,7 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.1.6",
+    "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.1.6",
     "http-server": "^0.11.1",
     "nightmare": "^3.0.1",
